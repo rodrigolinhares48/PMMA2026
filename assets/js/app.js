@@ -4,7 +4,7 @@
  * CONFIGURAÇÃO PRINCIPAL
  * Substitua o endereço abaixo pelo link real do checkout (Hotmart, Kiwify etc.).
  */
-const CHECKOUT_URL = 'https://pay.hotmart.com/SEU-CHECKOUT';
+const CHECKOUT_URL = 'https://pay.kiwify.com.br/OyGmfoh';
 
 const buyButtons = document.querySelectorAll('.js-buy');
 const isCheckoutConfigured = !CHECKOUT_URL.includes('SEU-CHECKOUT');
