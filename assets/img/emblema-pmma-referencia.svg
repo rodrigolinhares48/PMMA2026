@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 260" role="img" aria-labelledby="title desc">
+  <title id="title">Emblema visual PMMA 2026</title>
+  <desc id="desc">Símbolo ilustrativo em forma de escudo e estrela, usado apenas no material independente.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8df8a"/>
+      <stop offset=".45" stop-color="#dca928"/>
+      <stop offset="1" stop-color="#8e6410"/>
+    </linearGradient>
+    <linearGradient id="navy" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b2747"/>
+      <stop offset="1" stop-color="#031427"/>
+    </linearGradient>
+  </defs>
+  <circle cx="130" cy="130" r="121" fill="url(#navy)" stroke="url(#gold)" stroke-width="8"/>
+  <circle cx="130" cy="130" r="101" fill="#0b3159" stroke="#fff" stroke-width="3" opacity=".95"/>
+  <path d="M130 42 151 91l53 5-40 35 12 52-46-27-46 27 12-52-40-35 53-5z" fill="url(#gold)" stroke="#f9eab2" stroke-width="3"/>
+  <path d="M130 91c25 0 45 20 45 45s-20 45-45 45-45-20-45-45 20-45 45-45z" fill="#cf2632" stroke="#f4d063" stroke-width="5"/>
+  <text x="130" y="143" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="800" fill="#fff">PMMA</text>
+  <text x="130" y="32" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#f5d36d" letter-spacing="3">CONCURSO</text>
+  <text x="130" y="233" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#f5d36d" letter-spacing="3">2026</text>
+</svg>
